@@ -53,7 +53,7 @@ Si usas un entorno virtual (<i>venv</i>), actívalo antes de instalar.
 
 #### 1. Datos de entrada:
 
-* Agrega los archivos <i>.csv</i> que deseas procesar en la carpeta <i>data</i> de tu proyecto.
+* Agrega los archivos <i>.csv</i> que deseas procesar en la carpeta <i>data</i> (crear folder primero).
 
 
 #### 2. Configura el main:
