@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/pragma_data_pipeline.iml" filepath="$PROJECT_DIR$/.idea/pragma_data_pipeline.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/prag_data_pipeline.iml" filepath="$PROJECT_DIR$/.idea/prag_data_pipeline.iml" />
     </modules>
   </component>
 </project>
