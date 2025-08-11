@@ -1,6 +1,6 @@
 # Pragma Data Pipeline
 
-Este repositorio contiene un pipeline incremental para carga de archivos CSV en micro batches, almacenamiento en PostgreSQL y actualización de estadísticas con SQLModel y Polars.
+Este repositorio contiene un pipeline incremental para carga de archivos CSV en micro batches, almacenamiento en PostgreSQL y actualización de estadísticas. Como tecnologías complementarias se usan las librerías SQLModel y Polars.
 
 ---
 ## Requisitos previos
@@ -73,7 +73,7 @@ Si usas un entorno virtual (<i>venv</i>), actívalo antes de instalar.
   ]
   ```
 
-Los archivos deben existir dentro de la carpeta data.
+Los archivos deben existir dentro de la carpeta <i>data</i>.
 
 ### 3. Corre el pipeline:
 
