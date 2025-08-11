@@ -1,0 +1,13 @@
+venv/
+.env
+.env.local
+
+*.csv
+*.json
+*.html
+
+__pycache__/
+*.pyc
+
+stats/
+data/*

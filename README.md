@@ -1,2 +1,3 @@
-# prag_data_pipeline
-Test pipeline with polars, SQLModel, PostgreSQL
+python -m venv venv
+
+.\venv\Scripts\Activate.ps1
